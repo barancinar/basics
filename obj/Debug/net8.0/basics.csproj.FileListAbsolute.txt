@@ -28,3 +28,4 @@
 /Users/barancinar/Desktop/shopapp/basics/obj/Debug/net8.0/basics.pdb
 /Users/barancinar/Desktop/shopapp/basics/obj/Debug/net8.0/basics.genruntimeconfig.cache
 /Users/barancinar/Desktop/shopapp/basics/obj/Debug/net8.0/ref/basics.dll
+/Users/barancinar/Desktop/shopapp/basics/obj/Debug/net8.0/basics.sourcelink.json
